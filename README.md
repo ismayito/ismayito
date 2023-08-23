@@ -1,5 +1,5 @@
 
-<img align="center" height="400" width="800" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif"/>
+
 <h1 align="center">Hi 👋, I'm Mayito Ismail</h1>
 <h3 align="center">A passionate Fullstack web developer from Uganda</h3>
 
