@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ismailmayito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismailmayito" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mayito-ismail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayito-ismail" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mayito-ismail-2b0067178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayito-ismail" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
